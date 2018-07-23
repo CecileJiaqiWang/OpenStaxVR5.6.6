@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3195408796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6f1a1858cca327943f934baa6aac7f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c779f9c875c9ee4bb1858a77951478a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/ASSET BUNDLE PAGES/Soci/Materials/0018.mat
+- Assets/ASSET BUNDLE PAGES/Soci/18.prefab
+- Assets/ASSET BUNDLE PAGES/Soci/0018.jpg
+Dependencies:
+- /Users/cecile/Desktop/OpenStax/OpenStaxVR/OpenStaxVR_latest/AssetBundles/iOS/soci-16

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3159470458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 102d8dc4f7cbfca6d5fb63e550e17892
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c779f9c875c9ee4bb1858a77951478a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/ASSET BUNDLE PAGES/Soci/Materials/0013.mat
+- Assets/ASSET BUNDLE PAGES/Soci/0013.jpg
+- Assets/ASSET BUNDLE PAGES/Soci/13.prefab
+Dependencies: []

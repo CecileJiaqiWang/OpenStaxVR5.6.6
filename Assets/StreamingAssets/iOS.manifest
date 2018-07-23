@@ -1,0 +1,128 @@
+ManifestFileVersion: 0
+CRC: 775772437
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: soci-1
+      Dependencies: {}
+    Info_1:
+      Name: soci-0
+      Dependencies: {}
+    Info_2:
+      Name: soci-2
+      Dependencies: {}
+    Info_3:
+      Name: soci-3
+      Dependencies: {}
+    Info_4:
+      Name: soci-4
+      Dependencies: {}
+    Info_5:
+      Name: soci-5
+      Dependencies: {}
+    Info_6:
+      Name: soci-6
+      Dependencies: {}
+    Info_7:
+      Name: soci-7
+      Dependencies: {}
+    Info_8:
+      Name: soci-8
+      Dependencies: {}
+    Info_9:
+      Name: soci-9
+      Dependencies: {}
+    Info_10:
+      Name: soci-10
+      Dependencies: {}
+    Info_11:
+      Name: alge-0
+      Dependencies: {}
+    Info_12:
+      Name: alge-1
+      Dependencies: {}
+    Info_13:
+      Name: alge-3
+      Dependencies: {}
+    Info_14:
+      Name: alge-2
+      Dependencies: {}
+    Info_15:
+      Name: bio-0
+      Dependencies: {}
+    Info_16:
+      Name: bio-1
+      Dependencies: {}
+    Info_17:
+      Name: bio-2
+      Dependencies: {}
+    Info_18:
+      Name: bio-3
+      Dependencies: {}
+    Info_19:
+      Name: econ-0
+      Dependencies: {}
+    Info_20:
+      Name: econ-1
+      Dependencies: {}
+    Info_21:
+      Name: econ-2
+      Dependencies: {}
+    Info_22:
+      Name: econ-3
+      Dependencies: {}
+    Info_23:
+      Name: phys-0
+      Dependencies: {}
+    Info_24:
+      Name: phys-1
+      Dependencies: {}
+    Info_25:
+      Name: phys-2
+      Dependencies: {}
+    Info_26:
+      Name: phys-3
+      Dependencies: {}
+    Info_27:
+      Name: soci-11
+      Dependencies: {}
+    Info_28:
+      Name: soci-12
+      Dependencies: {}
+    Info_29:
+      Name: soci-13
+      Dependencies: {}
+    Info_30:
+      Name: soci-14
+      Dependencies: {}
+    Info_31:
+      Name: soci-15
+      Dependencies: {}
+    Info_32:
+      Name: soci-16
+      Dependencies: {}
+    Info_33:
+      Name: soci-17
+      Dependencies: {}
+    Info_34:
+      Name: soci-18
+      Dependencies:
+        Dependency_0: soci-16
+    Info_35:
+      Name: soci-19
+      Dependencies: {}
+    Info_36:
+      Name: soci-20
+      Dependencies: {}
+    Info_37:
+      Name: soci-21
+      Dependencies: {}
+    Info_38:
+      Name: soci-22
+      Dependencies: {}
+    Info_39:
+      Name: soci-23
+      Dependencies: {}
+    Info_40:
+      Name: soci-24
+      Dependencies: {}

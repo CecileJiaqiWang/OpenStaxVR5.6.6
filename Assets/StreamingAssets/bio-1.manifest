@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3804107574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 878ac7c8e58ebfd8761d4e1f21fb1578
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c779f9c875c9ee4bb1858a77951478a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/ASSET BUNDLE PAGES/Bio/1.prefab
+- Assets/ASSET BUNDLE PAGES/Bio/Materials/Bio0001.mat
+- Assets/ASSET BUNDLE PAGES/Bio/Bio0001.png
+Dependencies: []
