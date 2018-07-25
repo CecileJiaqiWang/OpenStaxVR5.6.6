@@ -169,7 +169,7 @@ public class Book : MonoBehaviour
     public void SaveProgress()
     {
         Progress = _currentPage;
-        string currentDir = Directory.GetCurrentDirectory();
+        string currentDir = Application.persistentDataPath;        
         string fileName = _bookChoices + "envStatus.txt";
         string fullPath = currentDir + "/" + fileName;
         string bookStatus = "Progress:" + Progress;
@@ -194,7 +194,7 @@ public class Book : MonoBehaviour
     private void LoadProgress()
     {
         // The path of the txt file storing game status.
-        string currentDir = Directory.GetCurrentDirectory();
+        string currentDir = Application.persistentDataPath;
         string fileName = _bookChoices + "envStatus.txt";
         string fullPath = currentDir + "/" + fileName;
         try
@@ -227,7 +227,7 @@ public class Book : MonoBehaviour
     /* Checks for saved progress and displays pages */
     void Start()
     {
-        String bookNameDir = Directory.GetCurrentDirectory() + "/" + "bookName.txt";
+        String bookNameDir = Application.persistentDataPath + "/" + "bookName.txt";
         _bookChoices = File.ReadAllText(bookNameDir);
         LoadProgress();
         _previousBundle = LoadBundle(PreviousPage(_currentPage));

@@ -41,7 +41,7 @@ public class Intro : MonoBehaviour {
 				transform.parent.localPosition = new Vector3(transform.parent.localPosition.x, 
 					(float)(transform.parent.localPosition.y + 3), transform.parent.localPosition.z);
 				// The path of the txt file storing game status.
-				string currentDir = Directory.GetCurrentDirectory();
+				string currentDir = Application.persistentDataPath;
 				string filename = "bookName.txt";
 				string fullPath = currentDir + "/" + filename;
 				try
